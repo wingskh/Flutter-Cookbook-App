@@ -1,6 +1,7 @@
 # meals
 
 A simple Flutter Cookbook App.
+<br/>
 <img src="./readme/demo.gif" width="300">
 
 ## Getting Started
